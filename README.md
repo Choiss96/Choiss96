@@ -18,7 +18,7 @@
 <br>
 <br>
 
-![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choiss96&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choiss96&&show_icons=true&theme=gruvbox)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Choiss96&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choiss96&layout=compact)
