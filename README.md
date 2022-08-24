@@ -19,7 +19,7 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choiss96&&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Choiss96&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Choiss96&theme=highcontrast)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choiss96&layout=compact)
   
